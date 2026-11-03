@@ -9,4 +9,4 @@
 
 ### 🌍 Connect with me
 <a href="https://skywireneo.github.io" target="_blank">🌐 Portfolio</a> · 
-<a href="mailto:skywireneo@yandex.ru">📧 Email</a>
+<a href="mailto:skywireneo@yandex.ru">📧 Email</a> (skywireneo@yandex.ru)
